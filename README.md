@@ -1,4 +1,4 @@
-# Debian Home
+# Debian Preseed
 
 Create preseeded debian ISOs using make
 
